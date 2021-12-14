@@ -1,0 +1,31 @@
+{
+  "name": "testing-practice",
+  "version": "1.0.0",
+  "description": "TOP testing practice",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gases/testing-practice.git"
+  },
+  "author": "Gases",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Gases/testing-practice/issues"
+  },
+  "homepage": "https://github.com/Gases/testing-practice#readme",
+  "devDependencies": {
+    "@babel/core": "^7.16.5",
+    "@babel/preset-env": "^7.16.5",
+    "babel-jest": "^27.4.5",
+    "babel-loader": "^8.2.3",
+    "eslint": "^8.4.1",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-plugin-import": "^2.25.3",
+    "jest": "^27.4.5",
+    "prettier": "^2.5.1",
+    "webpack": "^5.65.0"
+  }
+}
